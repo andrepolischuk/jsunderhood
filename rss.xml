@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jsunderhood]]></title>
+        <description><![CDATA[Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю]]></description>
+        <link>https://jsunderhood.ru/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 27 May 2015 09:09:08 GMT</lastBuildDate>
+        <atom:link href="https://jsunderhood.ru/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[en-us]]></language>
+        <managingEditor><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></managingEditor>
+        <webMaster><![CDATA[iamstarkov@gmail.com (Vladimir Starkov)]]></webMaster>
+        <category><![CDATA[frontend]]></category>
+        <category><![CDATA[css]]></category>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[subzey]]></title>
+            <description><![CDATA[<p>-~/-~/-~/-~/-~/-~/ <a href="https://twitter.com/jsunderhood/status/600095365254270976">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/subzey/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/subzey/</guid>
+            <pubDate>Sun, 17 May 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bashmish]]></title>
+            <description><![CDATA[<p>Вы уже отошли от затянувшихся выходных и отпусков? Тогда я @bashmish рад буду пообщаться с вами на этой неделе тут :) <a href="https://twitter.com/jsunderhood/status/597653605315977216">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/bashmish/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/bashmish/</guid>
+            <pubDate>Sun, 10 May 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sudodoki]]></title>
+            <description><![CDATA[<p>На этой неделе управление этим аккаунтом доверили мне, @sudodoki - Джон, просто Джон, ex-Ebay, SoftDev+ в RailsReactor, проездом в Бостоне. <a href="https://twitter.com/jsunderhood/status/592841474334658560">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/sudodoki/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/sudodoki/</guid>
+            <pubDate>Mon, 27 Apr 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pukhalski]]></title>
+            <description><![CDATA[<p>Доброе утро всем в этом чатике! Целую неделю вам предстоит терпеть меня, @pukhalski, в эфире @jsunderhood. Поехали! <a href="https://twitter.com/jsunderhood/status/590058545422409728">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/pukhalski/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/pukhalski/</guid>
+            <pubDate>Sun, 19 Apr 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lomakin]]></title>
+            <description><![CDATA[<p>Всем привет! Меня зовут Александр Ломакин. Я руковожу веб-разработкой в Rambler Digital Solutions. <a href="https://twitter.com/jsunderhood/status/587596754524188672">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/lomakin/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/lomakin/</guid>
+            <pubDate>Sun, 12 Apr 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mraleph]]></title>
+            <description><![CDATA[<p>всем привет! меня зовут Вячеслав и эту неделю я вещаю из под капота JS - здесь темно и повсюду C++... отвечаю на вопросы про V8 и перформанс <a href="https://twitter.com/jsunderhood/status/584858429212258304">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/mraleph/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/mraleph/</guid>
+            <pubDate>Sun, 05 Apr 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[awinogradov]]></title>
+            <description><![CDATA[<p>Всем привет!;) Меня зовут Антон Виноградов. Я разработчик интерфейсов в Альфа-Банке. На целую неделю я с вами. Пишем не стесняемся) <a href="https://twitter.com/jsunderhood/status/582443238063251456">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/AWinogradov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/AWinogradov/</guid>
+            <pubDate>Sun, 29 Mar 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[veged]]></title>
+            <description><![CDATA[<p>всем привет! это @veged c вами на ближайшую неделю <a href="https://twitter.com/jsunderhood/status/579986868487512064">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/veged/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/veged/</guid>
+            <pubDate>Sun, 22 Mar 2015 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[korochinskiy]]></title>
+            <description><![CDATA[<p>Привет! Эту неделю этот твиттер буду вести я, @korochinskiy. Писать я, наверно, буду меньше, потому что много чего уже сказано. <a href="https://twitter.com/jsunderhood/status/577403514445500416">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/korochinskiy/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/korochinskiy/</guid>
+            <pubDate>Sun, 15 Mar 2015 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[toivonens]]></title>
+            <description><![CDATA[<p>Привет! На этой неделе с вами я, @toivonens. Наконец-то добавила аккаунт во все свои устройства. <a href="https://twitter.com/jsunderhood/status/574884457691418624">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/toivonens/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/toivonens/</guid>
+            <pubDate>Sun, 08 Mar 2015 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[roman01la]]></title>
+            <description><![CDATA[<p>Привет. На этой неделе здесь я — @roman01la. Будем говорить о парном программировании, функциональном JS, о доступности и других штуках. <a href="https://twitter.com/jsunderhood/status/572341652246945792">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/roman01la/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/roman01la/</guid>
+            <pubDate>Sun, 01 Mar 2015 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iamstarkov]]></title>
+            <description><![CDATA[<p>Привет, котаны! На этой неделе твиттер буду @matmuchrapna. Буду рассказывать про git, atom, gulp, отношения и про всё остальное <a href="https://twitter.com/jsunderhood/status/569802366297493505">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/iamstarkov/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/iamstarkov/</guid>
+            <pubDate>Sun, 22 Feb 2015 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[filipovskii]]></title>
+            <description><![CDATA[<p>Эту неделю буду вести аккаунт я, @filipovskii. Full-stack кодер, организатор @moscowjs, со-ведущий @RadioJSPodcast, сёрфер-любитель. Привет! <a href="https://twitter.com/jsunderhood/status/564697062378594304">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/filipovskii/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/filipovskii/</guid>
+            <pubDate>Sun, 08 Feb 2015 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[shuvalov_anton]]></title>
+            <description><![CDATA[<p>http://t.co/PvtJZodxLf — один из лучших ресурсов о ES6. Axel подробно рассказывает и показывает на примерах все новые штуки. <a href="https://twitter.com/jsunderhood/status/562519903249649665">0</a></p>
+undefined]]></description>
+            <link>https://jsunderhood.ru/shuvalov_anton/</link>
+            <guid isPermaLink="true">https://jsunderhood.ru/shuvalov_anton/</guid>
+            <pubDate>Mon, 02 Feb 2015 23:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
